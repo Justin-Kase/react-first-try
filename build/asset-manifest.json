@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Justin-Kase/react-first-try/static/css/main.9345b6e2.css",
+    "main.js": "/Justin-Kase/react-first-try/static/js/main.b504af86.js",
+    "index.html": "/Justin-Kase/react-first-try/index.html",
+    "main.9345b6e2.css.map": "/Justin-Kase/react-first-try/static/css/main.9345b6e2.css.map",
+    "main.b504af86.js.map": "/Justin-Kase/react-first-try/static/js/main.b504af86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.b504af86.js"
+  ]
+}
